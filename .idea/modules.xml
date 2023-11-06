@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/21-Structural-Design-Pattern.iml" filepath="$PROJECT_DIR$/.idea/21-Structural-Design-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterPractice/AdapterPractice.iml" filepath="$PROJECT_DIR$/AdapterPractice/AdapterPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePatternExercise/FacadePatternExercise.iml" filepath="$PROJECT_DIR$/FacadePatternExercise/FacadePatternExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePractice/FacadePractice.iml" filepath="$PROJECT_DIR$/FacadePractice/FacadePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPatternExercise/ProxyPatternExercise.iml" filepath="$PROJECT_DIR$/ProxyPatternExercise/ProxyPatternExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPractice/ProxyPractice.iml" filepath="$PROJECT_DIR$/ProxyPractice/ProxyPractice.iml" />
+    </modules>
+  </component>
+</project>
